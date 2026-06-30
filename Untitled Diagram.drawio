@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XZh-CS3UV98fyyGsAwcI">
-    <mxGraphModel dx="2571" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="D6Z_18yN1OyfTdeJczBq-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008500;" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Polygons built in SQL&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Thiessen polys merged by district/ market / terr.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="1623.95" y="561.63" as="geometry" />
         </mxCell>
-        <mxCell id="D6Z_18yN1OyfTdeJczBq-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5353CF;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Mapping tools&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Live!, Real Estate, Finance, Competition&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="D6Z_18yN1OyfTdeJczBq-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5353CF;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Mapping tools&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Live!, Real Estate, Finance, Competition..&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="290" x="1180.25" y="710" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5353CF;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Other tools&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;REC, Lease, New Deal, PST, TI..&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -146,6 +146,24 @@
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;IIS, ArcGIS Server (on-prem)&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="220" x="1597.9" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ETL — scheduled + manual runs" vertex="1">
+          <mxGeometry height="30" width="110" x="380" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API (we call)" vertex="1">
+          <mxGeometry height="30" width="80" x="650" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manual entry" vertex="1">
+          <mxGeometry height="30" width="80" x="894" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TBD" vertex="1">
+          <mxGeometry height="30" width="110" x="1133" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vendor data feed — bulk file load" vertex="1">
+          <mxGeometry height="30" width="140" x="1360" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Live API at runtime (rendering)" vertex="1">
+          <mxGeometry height="30" width="120" x="1642.9" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
