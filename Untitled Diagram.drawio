@@ -1,16 +1,17 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XZh-CS3UV98fyyGsAwcI">
-    <mxGraphModel dx="1885" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2175" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D6Z_18yN1OyfTdeJczBq-1" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="607.2857142857142" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="btgXgaImJxAZTZptwnwA-9" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-10" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="D6Z_18yN1OyfTdeJczBq-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00592D;" value="" vertex="1">
-          <mxGeometry height="250" width="250" x="1578.95" y="420" as="geometry" />
+          <mxGeometry height="250" width="250" x="967.5" y="690" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-3" parent="1" style="shape=mxgraph.signs.nature.snowflake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="" vertex="1">
           <mxGeometry height="49" width="47" x="406.5" y="143.26" as="geometry" />
@@ -57,9 +58,6 @@
         <mxCell id="D6Z_18yN1OyfTdeJczBq-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="competition" vertex="1">
           <mxGeometry height="30" width="60" x="1396.5" y="227.51" as="geometry" />
         </mxCell>
-        <mxCell id="D6Z_18yN1OyfTdeJczBq-18" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="basemaps" vertex="1">
           <mxGeometry height="30" width="60" x="1674.45" y="245.25" as="geometry" />
         </mxCell>
@@ -81,10 +79,7 @@
         <mxCell id="D6Z_18yN1OyfTdeJczBq-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Verdana&quot;&gt;RR Excel Book&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;Verdana&quot;&gt;uploaded into REC&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="106.5" x="370" y="308.51" as="geometry" />
         </mxCell>
-        <mxCell id="D6Z_18yN1OyfTdeJczBq-26" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D6Z_18yN1OyfTdeJczBq-27" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-36">
+        <mxCell id="btgXgaImJxAZTZptwnwA-7" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00592D;" value="" vertex="1">
@@ -103,25 +98,25 @@
           <mxGeometry height="50" width="105" x="1179.45" y="543.51" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;ArcGIS&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot; style=&quot;font-size: 10px;&quot;&gt;renders only&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="1652.9" y="478.37" as="geometry" />
+          <mxGeometry height="50" width="110" x="1041.45" y="748.37" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-34" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="D6Z_18yN1OyfTdeJczBq-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008500;" value="&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Polygons built in SQL&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Thiessen polys merged by district/ market / terr.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="1623.95" y="561.63" as="geometry" />
+          <mxGeometry height="70" width="160" x="1012.5" y="831.63" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5353CF;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Mapping tools&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Live!, Real Estate, Finance, Competition..&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="290" x="1180.25" y="710" as="geometry" />
+          <mxGeometry height="70" width="290" x="1222.75" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5353CF;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Other tools&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;REC, Lease, New Deal, PST, TI..&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="290" x="627" y="710" as="geometry" />
+          <mxGeometry height="70" width="290" x="669.5" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Users: REC, Real Estate team&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="370" x="1130" y="850" as="geometry" />
+          <mxGeometry height="70" width="370" x="1172.5" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Outputs : PDF, CSV, exports&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="370" x="600" y="850" as="geometry" />
+          <mxGeometry height="70" width="370" x="642.5" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-40" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" target="D6Z_18yN1OyfTdeJczBq-38">
           <mxGeometry relative="1" as="geometry" />
@@ -145,25 +140,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D6Z_18yN1OyfTdeJczBq-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;IIS, ArcGIS Server (on-prem)&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="1597.9" y="440" as="geometry" />
+          <mxGeometry height="30" width="220" x="986.45" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ETL — scheduled + manual runs" vertex="1">
-          <mxGeometry height="30" width="110" x="380" y="90" as="geometry" />
+        <mxCell id="btgXgaImJxAZTZptwnwA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;Scheduled job — weekly (Sun AM)&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;Store details, hierarchy, daily sales → weeks; updates districts/markets + pals layer&lt;/code&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="375" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API (we call)" vertex="1">
-          <mxGeometry height="30" width="80" x="650" y="80" as="geometry" />
+        <mxCell id="btgXgaImJxAZTZptwnwA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;Scheduled console app — daily ~12am + weekdays ~11am&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;Schedule updates + photo links&lt;/code&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="650" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manual entry" vertex="1">
-          <mxGeometry height="30" width="80" x="894" y="80" as="geometry" />
+        <mxCell id="btgXgaImJxAZTZptwnwA-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Manual + scrape — Mary Shelton verifies Excel from Oracle, console app scrapes it&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="894" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TBD" vertex="1">
-          <mxGeometry height="30" width="110" x="1133" y="80" as="geometry" />
+        <mxCell id="btgXgaImJxAZTZptwnwA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;On-demand — loads on first click (~12s) via wssf web service&lt;/code&gt;&lt;br&gt;&lt;br&gt;&lt;code class=&quot;bg-text-200/5 border border-0.5 border-border-300 text-danger-000 whitespace-pre-wrap rounded-[0.4rem] px-1 py-px text-[0.9rem]&quot;&gt;Data lives in Snowflake&lt;/code&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1133" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Vendor data feed — bulk file load" vertex="1">
+        <mxCell id="btgXgaImJxAZTZptwnwA-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Scheduled console app — daily, hits API&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="1360" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="btgXgaImJxAZTZptwnwA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Live API at runtime (rendering)" vertex="1">
+        <mxCell id="btgXgaImJxAZTZptwnwA-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Verdana&quot;&gt;Live at runtime — renders map layers (not stored)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="1642.9" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="btgXgaImJxAZTZptwnwA-8" edge="1" parent="1" source="D6Z_18yN1OyfTdeJczBq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.002;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" target="D6Z_18yN1OyfTdeJczBq-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
